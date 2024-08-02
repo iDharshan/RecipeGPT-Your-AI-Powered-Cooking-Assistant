@@ -12,8 +12,8 @@ RecipeGPT is an innovative AI-powered cooking assistant designed to help you mak
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/recipe-gpt.git
-    cd recipe-gpt
+    [git clone https://github.com/yourusername/RecipeGPT-Your-AI-Powered-Cooking-Assistant.git]
+    cd RecipeGPT-Your-AI-Powered-Cooking-Assistant
     ```
 
 2. Install the required dependencies:
