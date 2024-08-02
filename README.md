@@ -32,7 +32,7 @@ RecipeGPT is an innovative AI-powered cooking assistant designed to help you mak
 
 1. Run the Streamlit application:
     ```bash
-    streamlit run app.py
+    streamlit run recipeGPT.py
     ```
 
 2. Enter the ingredients you have in the chat input.
