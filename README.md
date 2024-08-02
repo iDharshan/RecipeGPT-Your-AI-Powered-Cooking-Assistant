@@ -1,5 +1,4 @@
 # RecipeGPT: Your AI-Powered Cooking Assistant
-
 RecipeGPT is an innovative AI-powered cooking assistant designed to help you make the most out of the ingredients you have. Just enter the ingredients you have, and RecipeGPT will suggest a recipe and provide a detailed step-by-step cooking guide.
 
 ## Features
@@ -38,6 +37,8 @@ RecipeGPT is an innovative AI-powered cooking assistant designed to help you mak
 2. Enter the ingredients you have in the chat input.
 
 3. RecipeGPT will suggest a recipe and provide a step-by-step cooking guide.
+
+![RecipeGPT Screenshot](app_screenshot.png)
 
 ## Contributing
 
